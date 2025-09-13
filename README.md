@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 - 🌱 Currently learning **AI, Deep Learning, and Web Development**  
-- 🧠 Interested in **Neural Networks, Computer Vision, and Generative AI**  
+- 🧠 Interested in **Web Development, AI, Computer Vision, and Generative AI**  
 - 🛠️ Building hands-on projects to sharpen technical skills  
 - 🤝 Open to **internships, collaborations, and research opportunities**  
 - 📫 Connect with me:  
