@@ -41,4 +41,4 @@
 
 ---
 
-⭐️ From [mshoaib01](https://github.com/mshoaib01)
+⭐️ From [mshuaib01](https://github.com/mshuaib01)
