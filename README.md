@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Shoaib
 
-<!--
-**mshuaib01/mshuaib01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Information Technology Student @ UMT  
+🤖 Aspiring AI Engineer | Passionate about **Python, AI & Web Development**  
+💻 Exploring AI tools, Python projects, and building impactful applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning **AI, Deep Learning, and Web Development**  
+- 🧠 Interested in **Neural Networks, Computer Vision, and Generative AI**  
+- 🛠️ Building hands-on projects to sharpen technical skills  
+- 🤝 Open to **internships, collaborations, and research opportunities**  
+- 📫 Connect with me:  
+  - ✉️ Email: **muhammadshoaib.work01@gmail.com**  
+  - 🔗 LinkedIn: [linkedin.com/in/mshuaib01](https://www.linkedin.com/in/mshuaib01)  
+  - 🐙 GitHub: [github.com/mshuaib01](https://github.com/mshuaib01)  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, HTML, CSS  
+- **Databases:** MySQL, Firebase  
+- **Frameworks & Tools:** Git, GitHub, VS Code  
+- **Currently Learning:** AI, Deep Learning, Python Projects  
+
+---
+
+## 📂 Projects
+- 🛒 **E-Commerce Store** – Full-stack group project (Web Development)  
+- 🤖 **Python Mini Projects** – Practice projects (daily learning uploads)  
+- 📊 **AI-based Projects** – Coming soon  
+
+---
+
+## 🌟 Future Goals
+- 🚀 Build a strong **Python + AI-focused portfolio** with real-world projects  
+- 🤖 Specialize in **AI/ML** and work on innovative applications  
+- 🌍 Contribute to **open-source AI communities**  
+- 🎯 Land an **AI/ML Internship or Research Role**  
+
+---
+
+⭐️ From [mshoaib01](https://github.com/mshoaib01)
