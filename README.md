@@ -12,7 +12,7 @@
 - 🛠️ Building hands-on projects to sharpen technical skills  
 - 🤝 Open to **internships, collaborations, and research opportunities**  
 - 📫 Connect with me:  
-  - ✉️ Email: **muhammadshoaib.work01@gmail.com**  
+  - ✉️ Email: **mshoaib2625439@gmail.com**  
   - 🔗 LinkedIn: [linkedin.com/in/mshuaib01](https://www.linkedin.com/in/mshuaib01)  
   - 🐙 GitHub: [github.com/mshuaib01](https://github.com/mshuaib01)  
 
